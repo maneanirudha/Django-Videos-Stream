@@ -1,0 +1,5 @@
+/thumbnails
+/uploaded-videos/*.*
+/env
+*.pyc
+*.mp4
